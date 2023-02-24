@@ -33,7 +33,7 @@ a{
     color: #030D15;
 }
 
-.menuUl{
+.items{
     display: flex;
     flex-direction: row;
     justify-content: space-between;
